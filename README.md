@@ -6,7 +6,8 @@ An android view like html map tag.
 
 ## 项目结构
 
-	此项目是在Android Stdio IDE中创建的，其目录结构与Eclipse很不同。如果使用Eclipse打开，需要把路径设置到 ...../ImageMap/src/main 里。
+	此项目是在Android Stdio IDE中创建的，其目录结构与Eclipse很不同。
+	如果使用Eclipse打开，需要把路径设置到 ...../ImageMap/src/main 里。
 
 ## 截图
 
@@ -26,7 +27,7 @@ An android view like html map tag.
 
  ## 使用
 
- 详细代码见MainActivity.java文件。
+ 详细代码见MainActivity.java文件。项目为Android可运行项目，直接运行即可。
 
  ```java
    
