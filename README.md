@@ -10,7 +10,7 @@ An android view like html map tag.
 
 ## 截图
 
-	![ScreenShot](https://github.com/chenyoca/ImageMap/ScreenShot.png)
+![ScreenShot](https://raw.github.com/chenyoca/android-image-map/master/screenshot.png)
 
 ## 特点
 
